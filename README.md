@@ -8,7 +8,7 @@ This project demonstrates **secure coding practices**, **password security conce
 
 ---
 
-## 🚀 Why This Project Matters (For Recruiters)
+## 🚀 Why This Project Matters 
 
 ✔ Implements **real-world password attack models**
 ✔ Follows **privacy-first & zero-storage security principles**
