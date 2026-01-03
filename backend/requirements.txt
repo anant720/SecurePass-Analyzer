@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+zxcvbn==4.4.28
+bcrypt==4.1.1
+flask-limiter==3.5.0
+
+
